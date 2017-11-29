@@ -1,0 +1,296 @@
+1. 	
+Which of the following sentences is free from common errors?
+Mark for Review 
+1 Points
+			The team discussed about the problem.	
+			The QAE carried out testing of the application	
+			A summery is given bellow.	
+			The method returns a null value. (*)	
+				2. 	
+Which of the following sentences is very well-written?
+Mark for Review 
+1 Points
+			vTAF helps to rationalize and leverage test automation investments across the enterprise.	
+			The user can perform a simple search or an advanced search. (*)	
+			In order to send an e-mail, the user must have an email account.	
+			He/She should enter the login details	
+					
+
+
+		(Answer all questions in this section)
+					
+		3. 	
+Which of the following is not a correct practice when preparing a document?
+Mark for Review 
+1 Points
+			Set the language to US/UK English.	
+			Follow Virtusa standards and best practices.	
+			Use ýyouý only in design documents. (*)	
+			Update copyright year to current year.	
+			4. 	
+Which of the following is the correct way to list the responsibilities of your current project?
+Mark for Review 
+1 Points
+			Designed the application and participated in design discussions.	
+			Design the application and participating in design discussions.	
+			Developed the application.	
+			Designing the application and participating in design discussions. (*)	
+				
+	VBC Test Section
+
+					
+	(Answer all questions in this section)
+					
+		5. 	
+Which of the following is a correctly formed step in a test procedure?
+Mark for Review 
+1 Points
+			"Selects the login page."	
+			"Select an entry in the list." (*)	
+			"Submit the checklist"	
+			"You need to enter a valid name"	
+					
+
+
+			6. 	
+Which of the following sentences uses capitalization correctly?
+Mark for Review 
+1 Points
+			The process for iOS has been described in the distributing beta applications section.	
+			The process for iOS has been described in the Distributing beta applications section.	
+			The process for iOS has been described in the Distributing Beta Applications section. (*)	
+			The process for IOS has been described in the Distributing Beta Applications section.	
+					
+
+
+	7. 	
+Which of the following sentences sounds better?
+Mark for Review 
+1 Points
+			The business analyst gathers the requirements for the system. (*)	
+			The requirements for the system are gathered by the business analyst.	
+			The requirements are gathered for the system by the business analyst.	
+			The requirements are gathered by the business analyst for the system.	
+					
+
+
+	
+	VBC Test Section
+
+					
+	(Answer all questions in this section)
+					
+		8. 	
+Which of the following sentences has subject verb agreement?
+Mark for Review 
+1 Points
+			The iPhone and the iPad uses iOS.	
+			The design document provide the use cases.	
+			Each application use a different method.	
+			One of the methods uses the print option. (*)	
+					
+
+
+	
+	VBC Test Section
+
+					
+	(Answer all questions in this section)
+					
+		9. 	
+Which of the following sentences uses the comma correctly?
+Mark for Review 
+1 Points
+			Java is, an object-oriented language and C is a procedural language.	
+			Java, is an object-oriented language and C, is a procedural language.	
+			Java is an object-oriented language, and C is a procedural language. (*)	
+			Java is, an object-oriented language and C is, a procedural language.	
+					
+
+
+	
+	Summary		Previous		
+Page 9 of 20		
+	Next
+
+
+	VBC Test Section
+
+					
+	(Answer all questions in this section)
+					
+		10. 	
+Which of the following sentences uses the semicolon correctly?
+Mark for Review 
+1 Points
+			Java is; an object-oriented language, C is; a procedural language.	
+			Java; is an object-oriented language C; is a procedural language.	
+			Java is an object-oriented language C is a procedural language.	
+			Java is an object-oriented language; C is a procedural language. (*)	
+					
+
+
+	ions in this section)
+					
+		11. 	
+Which of the following sentences uses the colon correctly?
+Mark for Review 
+1 Points
+			Mobile devices need mobile OSs: iOS, BlackBerry OS, Android. (*)	
+			Mobile devices need mobile OSs iOS, BlackBerry OS, Android.	
+			Mobile devices need mobile OSs iOS: BlackBerry OS: Android.	
+			Mobile devices need mobile OSs: BlackBerry OS: Android.	
+					
+
+
+		12. 	
+Which of the following sentences uses the correct parallel construction?
+Mark for Review 
+1 Points
+			The QAE is responsible for the preparation, execution, and the reporting of test cases.	
+			The QAE is responsible for the preparation, the execution, and the reporting of test cases. (*)	
+			The QAE is responsible for preparation, execution, and the reporting of test cases.	
+			The QAE is responsible for the preparation, the execution, and reporting of test cases.	
+					
+
+
+	
+	Summary		Previous		
+Page 12 of 20		
+	Next
+
+
+			
+		13. 	
+Which of the following is a well-written sample of a profile overview?
+Mark for Review 
+1 Points
+			I am a software developer with 2 years of experience.	
+			Highly talented QA engineer with one year of experience in the IT industry.	
+			IT professional with two years of experience specializing in .NET development. (*)	
+			QA engineer looking for a challenging position.	
+					
+
+
+	14. 	
+Which of the following is a correct practice when preparing a document?
+Mark for Review 
+1 Points
+			Write sentences so that they contain all the related information.	
+			Use the spellchecker as it will find all errors in spellings.	
+			Use gender-neutral language. (*)	
+			Do not remove sections from the template that are not applicable.	
+					
+
+
+	
+	VBC Test Section
+
+					
+	(Answer all questions in this section)
+					
+		15. 	
+Which of the following sentences uses the correct punctuation?
+Mark for Review 
+1 Points
+			Can you please validate the test results?	
+			Can you please validate the test results. (*)	
+			Can you please validate the test results!	
+			Can you please validate the test results!!	
+					
+
+
+	
+	Summary		Previous		
+Page 15 of 20		
+	Next
+
+
+
+	VBC Test Section
+
+					
+	(Answer all questions in this section)
+					
+		16. 	
+Which of the following is a correctly formed test case name?
+Mark for Review 
+1 Points
+			"Create user profile" (*)	
+			"Request applicant data."	
+			"Viewing the output"	
+			"Checks user authorization"	
+					
+
+
+	
+	Summary		Previous		
+Page 16 of 20		
+	Next
+
+
+
+	VBC Test Section
+
+					
+	(Answer all questions in this section)
+					
+		17. 	
+Which of the following sentences uses the apostrophe correctly?
+Mark for Review 
+1 Points
+			QAE's prepare test cases.	
+			QAEs prepare test cases. (*)	
+			QAEs prepare test case's.	
+			QAE's prepare test case's.	
+					
+
+
+	
+	Summary		Previous		
+Page 17 of 20		
+	Next
+
+
+
+	VBC Test Section
+
+					
+	(Answer all questions in this section)
+					
+		18. 	
+Which of the following sentences uses Latin expressions correctly?
+Mark for Review 
+1 Points
+			Development also involves testing, for e.g. unit testing.	
+			BAs liaise between the stakeholders, i.e. the client and the project team. (*)	
+			QAEs need to be proficient in testing tools, ex. ClearCase.	
+			A specialist, ie: a database administrator, manages the database.	
+					
+
+
+	
+	Summary		Previous		
+Page 18 of 20		
+	Next
+
+ 	
+Which of the following sentences uses the article correctly?
+Mark for Review 
+1 Points
+			System throws a NR exception.	
+			System throws an NR exception.	
+			The system throws a NR exception.	
+			The system throws an NR exception. (*)	
+					20. 	
+Which of the following sentences does not contain the words to be avoided?
+Mark for Review 
+1 Points
+			The user can find the nearest hospitals using the application. (*)	
+			The user can enter her password.	
+			We will carry out several types of testing.	
+			Non-admin users can't delete records.	
+					
+
+
+		
